@@ -1,0 +1,4 @@
+Li, Matthew Dataset size: 5000
+            Elapsed Time                Number of Swaps
+Original Quicksort 1162	14599
+Modified Quicksort 1071	9288
